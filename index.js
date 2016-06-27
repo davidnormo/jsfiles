@@ -1,1 +1,0 @@
-const a = () => <div><p styles={{color: 'brown'}}><a href="#"></a></p></div>;
