@@ -1,3 +1,3 @@
-export default function jsfiles() {
+import Element from './element';
 
-}
+export default { Element };
